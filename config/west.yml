@@ -12,5 +12,8 @@ manifest:
     - name: nice-luffy-wanted #new entry
       remote: whoop-t #new entry
       revision: main #new entry
+    - name: nice-luffy-gear-five #new entry
+      remote: whoop-t #new entry
+      revision: main #new entry
   self:
     path: config
